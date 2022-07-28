@@ -1,0 +1,25 @@
+th {
+    background: rgb(126, 217, 245);
+    color: rgb(31, 107, 31);
+    padding: 10px 15px;
+}
+table {
+    width: 205px;
+    margin: auto;
+    text-align: center;
+}
+ td {
+    padding: 12px;
+    border-bottom: 1px solid grey;
+}
+caption {
+    padding: 2px;
+    background: rgb(255, 198, 54);
+    border-radius: 10px 10px 10px 10px;
+}
+
+h2 {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
